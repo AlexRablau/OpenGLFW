@@ -1,0 +1,14 @@
+
+# Ignore CMake 
+
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Ignore build directory
+build/
+
+# Ignore ds store
+*.DS_Store
