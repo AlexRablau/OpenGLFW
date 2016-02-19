@@ -1,2 +1,1 @@
-# MirageEngine
-Mirage 3D Inc. Graphics Engine
+# Basic OpenGL Tutorial
